@@ -5,3 +5,4 @@
 [2010-2022 Combined DC Property Sales.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/9680105/2010-2022.Combined.DC.Property.Sales.csv)
 [netflix_titles.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/9750821/netflix_titles.csv)
 [bigDataSample.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/9770825/bigDataSample.csv)
+[lincoln-last-speech.txt](https://github.com/kdrofenou/Intro-to-Data-Science/files/9845775/lincoln-last-speech.txt)
