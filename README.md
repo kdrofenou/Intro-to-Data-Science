@@ -7,4 +7,5 @@
 [bigDataSample.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/9770825/bigDataSample.csv)
 [lincoln-last-speech.txt](https://github.com/kdrofenou/Intro-to-Data-Science/files/9845775/lincoln-last-speech.txt)
 [Clean_ACSST5_data_2018-2020.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/9897301/Clean_ACSST5_data_2018-2020.csv)
-[2010-2022-Clean-Comm-PropSales.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/9897303/2010-2022-Clean-Comm-PropSales.csv)
+[2010-2022-Clean-Comm-PropSales.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/9897507/2010-2022-Clean-Comm-PropSales.csv)
+
