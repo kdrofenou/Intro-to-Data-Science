@@ -9,4 +9,6 @@
 [Clean_ACSST5_data_2018-2020.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/9897301/Clean_ACSST5_data_2018-2020.csv)
 [2010-2022-Clean-Comm-PropSales.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/9897507/2010-2022-Clean-Comm-PropSales.csv)
 [diastolicBP.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/9947071/diastolicBP.csv)
+[walmart_fuel_prices.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10027532/walmart_fuel_prices.csv)
+[walmart_sales.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10027533/walmart_sales.csv)
 
