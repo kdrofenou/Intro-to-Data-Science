@@ -13,4 +13,8 @@
 [walmart_sales.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10027533/walmart_sales.csv)
 [airport_wait_times.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10037211/airport_wait_times.csv)
 [Medicare_Physician_Other_Practitioners_by_Provider_and_Service_2020.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10050578/Medicare_Physician_Other_Practitioners_by_Provider_and_Service_2020.csv)
+[2010-2014 Douglas County Property Sales.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10077176/2010-2014.Douglas.County.Property.Sales.csv)
+[2015-2017 Douglas County Property Sales.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10077189/2015-2017.Douglas.County.Property.Sales.csv)
+[2018-2020 Douglas County Property Sales.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10077191/2018-2020.Douglas.County.Property.Sales.csv)
+[2021-2022 Douglas County Property Sales.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10077193/2021-2022.Douglas.County.Property.Sales.csv)
 
