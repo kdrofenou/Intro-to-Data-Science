@@ -22,3 +22,8 @@
 [2021-2022 Douglas County Property Sales.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10138044/2021-2022.Douglas.County.Property.Sales.csv)
 [aw_fb_data.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10147982/aw_fb_data.csv)
 ![REIT property](https://user-images.githubusercontent.com/54814215/207220387-2019a57c-b772-4371-9f2a-bc21b6d809b4.PNG)
+![2-a](https://user-images.githubusercontent.com/54814215/207232123-e7e5d308-67d9-47cb-b40a-6190650d1479.png)
+![2 c](https://user-images.githubusercontent.com/54814215/207232135-d7614e11-e7e8-4f21-bb5e-b1987dccb194.png)
+![3-a](https://user-images.githubusercontent.com/54814215/207232170-222740e7-94a6-4c7e-8c20-f74e6f0a8bdb.png)
+![3 b](https://user-images.githubusercontent.com/54814215/207232199-a4bba097-4456-452f-a24e-13c07d0ca8a4.png)
+![3_c](https://user-images.githubusercontent.com/54814215/207232216-c6f7e193-1bdb-4787-a468-9265e695a3e2.png)
