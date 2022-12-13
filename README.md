@@ -21,3 +21,4 @@
 [season-fruit.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10110234/season-fruit.csv)
 [2021-2022 Douglas County Property Sales.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10138044/2021-2022.Douglas.County.Property.Sales.csv)
 [aw_fb_data.csv](https://github.com/kdrofenou/Intro-to-Data-Science/files/10147982/aw_fb_data.csv)
+![REIT property](https://user-images.githubusercontent.com/54814215/207220387-2019a57c-b772-4371-9f2a-bc21b6d809b4.PNG)
